@@ -35,7 +35,8 @@ namespace PluginEdad
 
                 try
                 {
-                    // Plug-in business logic goes here.  
+                    // Plug-in business logic goes here.
+                    // Creating new branch
                 }
 
                 catch (FaultException<OrganizationServiceFault> ex)
